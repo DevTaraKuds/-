@@ -5,23 +5,20 @@ I am a recent graduate of Cybersecurity with a profound interest in technology a
 
 ## Objective
 
-My journey as an IT Professional has kndled my passion for cybersecurity, and I am eager to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey as an IT Professional has kindled my passion for cybersecurity, and I am eager to contribute to ensuring a cybersecure environment.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
+| User Training and guidiance          | <a href="https://www.canva.com/design/DAGPne49XGM/dKQx1hNLxOEt_ivuZU7cxg/edit?utm_content=DAGPne49XGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Guidiance Booklet</a>|
+| Secure Business Process Automation | <a href="https://youtu.be/jfKaUNXIBL8">Animal Foster App</a>|
 
 
 ## Tools
-
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img scr= "https://img.shields.io/badge/Microsoft-Publication-blue?logo=microsoft&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -40,7 +37,7 @@ My journey as an IT Professional has kndled my passion for cybersecurity, and I 
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="[https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://img.shields.io/badge/Microsoft_Certified-Identity_and_Access_Administrator-0078D4?logo=microsoft&logoColor=white)" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
