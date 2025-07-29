@@ -19,17 +19,7 @@ My journey as an IT Professional has kindled my passion for cybersecurity, and I
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img scr= "https://img.shields.io/badge/Microsoft-Publication-blue?logo=microsoft&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications
@@ -39,7 +29,5 @@ My journey as an IT Professional has kindled my passion for cybersecurity, and I
 <img src="https://img.shields.io/badge/Microsoft_Certified-Enterprise_Administrator_Expert-0078D4?logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Certified-Teams_Administrator_Associate-0078D4?logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?logo=microsoft&logoColor=white" />
-<img src="" />
-   
 
 </div>
