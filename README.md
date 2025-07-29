@@ -1,7 +1,7 @@
 # Hello, I'm Tara
 <a href="https://linkedin.com/omotarakudehinbu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate of Cybersecurity with a profound interest in technology and a dedication to solving complex security problems. Data is like gold and needs to be protected at all times. with my problem solving, analytical and critical thinking skills, I will apply my expertise to ensure organisation infastructure is protected and secured. 
+I am a recent graduate of Cybersecurity with a profound interest in technology and a dedication to solving complex security problems. Data is like gold and needs to be protected at all times. With my problem solving, analytical and critical thinking skills, I will apply my expertise to ensure organisation infastructure is protected and secured. 
 
 ## Objective
 
