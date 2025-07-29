@@ -36,4 +36,10 @@ My journey as an IT Professional has kindled my passion for cybersecurity, and I
 
 <div>
 <img src="https://img.shields.io/badge/Microsoft_Certified-Identity_and_Access_Administrator-0078D4?logo=microsoft&logoColor=white)" />
+<img src="https://img.shields.io/badge/Microsoft_Certified-Enterprise_Administrator_Expert-0078D4?logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Certified-Teams_Administrator_Associate-0078D4?logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?logo=microsoft&logoColor=white" />
+<img src="" />
+   
+
 </div>
