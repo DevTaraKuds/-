@@ -21,7 +21,7 @@ My journey as an IT Professional has kindled my passion for cybersecurity, and I
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img scr= "https://img.shields.io/badge/Microsoft-Publication-blue?logo=microsoft&logoColor=white" />
      <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"  />
+    <img src="https://img.shields.io/badge/AWS-0078D4?style=for-the-badge&logo=amazon-aws&logoColor=white"  />
 </div>
 
 ## Certifications
