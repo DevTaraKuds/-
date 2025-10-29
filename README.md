@@ -11,6 +11,7 @@ My journey as an IT Professional has kindled my passion for cybersecurity, and I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Cloud Infrastructure Security          | <a href="https://github.com/DevTaraKuds/csn-bootcamp">DevOps and DevSecops</a>|
 | User Training and guidiance          | <a href="https://www.canva.com/design/DAGPne49XGM/dKQx1hNLxOEt_ivuZU7cxg/edit?utm_content=DAGPne49XGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Guidiance Booklet</a>|
 | Secure Business Process Automation | <a href="https://youtu.be/jfKaUNXIBL8">Animal Foster App</a>|
 
@@ -20,6 +21,7 @@ My journey as an IT Professional has kindled my passion for cybersecurity, and I
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img scr= "https://img.shields.io/badge/Microsoft-Publication-blue?logo=microsoft&logoColor=white" />
      <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"  />
 </div>
 
 ## Certifications
