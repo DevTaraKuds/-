@@ -7,7 +7,7 @@ I am a recent graduate of Cybersecurity with a profound interest in technology a
 
 My journey as an IT Professional has kindled my passion for cybersecurity, and I am eager to contribute to ensuring a cybersecure environment.
 
-## Projects
+## Projects / Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
