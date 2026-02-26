@@ -24,7 +24,7 @@ I am a Cybersecurity professional with a profound interest in technology and a d
 
 ## Tools
 <div>
-    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img scr= "https://img.shields.io/badge/Microsoft-Publication-blue?logo=microsoft&logoColor=white" />
      <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
