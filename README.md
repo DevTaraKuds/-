@@ -1,5 +1,8 @@
 # Hello, I'm Tara
 <a href="https://linkedin.com/omotarakudehinbu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://youtube.com/@techyandcyberaware">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 I am a Cybersecurity professional with a profound interest in technology and a dedication to solving complex security problems.To describe myself in sntence, 'I am a Goal-getter with integrity.' I am committed to help solve your digital security needs with my problem solving, analytical and critical thinking skills. As a Cyber police that I foundly call myself, I will apply my expertise to ensure organisation infastructure is protected and secured. Eager to contribute to ensuring a cybersecure environment.
 
