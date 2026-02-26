@@ -13,7 +13,7 @@ I am a Cybersecurity professional with a profound interest in technology and a d
 | Cloud Security                                | <a href="[https://www.canva.com/design/DAGPne49XGM/dKQx1hNLxOEt_ivuZU7cxg/edit?utm_content=DAGPne49XGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/drive/folders/1N-24abng7PtxcYd0Axy6xmGOVwYWAMxN?usp=drive_link)">Cloud Sec</a>|
 | IT Infastructure Management                   | <a href="https://youtu.be/jfKaUNXIBL8">IT Projects</a>|
 
-## Projects / Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
